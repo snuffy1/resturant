@@ -5,7 +5,7 @@ const Footer: React.FC = () => {
     <footer className="bg-white text-black ">
       {/* Black banner style footer */}
       <div className="bg-black text-white w-full py-16 px-6">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-end md:items-center">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center">
           <div>
             <h2 className="text-3xl font-serif mb-6">9808183365</h2>
             <div className="text-xs tracking-widest uppercase space-y-1">
